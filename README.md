@@ -55,7 +55,7 @@ I am a **DevOps Engineer** with a strong background in **Full-Stack Development*
 
 ## 📊 GitHub Stats:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswanthK679&layout=compact&theme=dark)\
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswanthK679&theme=dark)\
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswanthK679&theme=dark)
 
 [//]: # (## 🛠️ Ongoing Projects:)
 
