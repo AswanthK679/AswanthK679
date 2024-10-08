@@ -17,8 +17,8 @@ I am a **DevOps Engineer** with a strong background in **Full-Stack Development*
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-(![Prometheus]&#40;https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&#41;)
-(![Grafana]&#40;https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&#41;)
+![Prometheus]&#40;https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&#41;
+![Grafana]&#40;https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&#41;
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
