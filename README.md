@@ -24,9 +24,9 @@ I am a **DevOps Engineer** with a strong background in **Full-Stack Development*
 
 [//]:![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[//]: # (## ☁️ Cloud Platforms:)
+## ☁️ Cloud Platforms
 
-[//]: # (![AWS]&#40;https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&#41;)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 [//]: # (![Azure]&#40;https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&#41;)
 
